@@ -1,7 +1,5 @@
 #SOLICITAÇÃO DE APONTAMENTO COM TECNOLOGIA INDEPENDENTE E GRATUÍTA (RH - Folha).
 
-#TIRAR SENHA DO E-MAIL ANTES DE SUBIR PARA YOUTUBE OU GITHUB.
-
 #INTRODUÇÃO - O QUE PRECISA SABER SOBRE APONTAMENTO:
 #O que é o apontamento?
 #Quais são as formas de fazer o apontamento?
@@ -13,8 +11,8 @@
 # d) Noção de como funciona isso na folha de salários.
 
 
-#PARTE PRÁTICA - normalmente o RH precisar AVISAR/SOLICITAR (por e-mail, chat interno ou WhastApp). 
-# Vamos fazer por e-mail:
+#PARTE PRÁTICA - normalmente o RH precisar AVISAR ou SOLICITAR (por e-mail, chat interno ou WhastApp) o apontamento ou parte dele aos gestores (lançamento de abonos e etc.). 
+# Vamos fazer/simular uma solicitação por e-mail aqui de forma prática e automática com Python:
 
 
 
